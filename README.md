@@ -27,37 +27,14 @@ Currently I'm:
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Vite
-- TanStack Query
-
-### Backend
-
-- Node.js
-- Express.js
-- FastAPI
-- Frappe Framework
-
-### Database
-
-- MongoDB
-- PostgreSQL
-- MariaDB
-
-### Tools
-
-- Git
-- GitHub
-- Linux
-- Postman
-- VS Code
-
+| Frontend | Backend | Database | Tools |
+|----------|----------|----------|-------|
+| React | Node.js | MongoDB | Git |
+| Next.js | Express | PostgreSQL | Linux |
+| TypeScript | FastAPI | MariaDB | GitHub |
+| Tailwind CSS | Frappe | | Postman |
+| TanStack Query | | | VS Code |
+| Vite | | | |
 ---
 
 ## 🚀 Featured Projects
