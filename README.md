@@ -1,16 +1,129 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prasad Nikam</h1>
 
-<!--
-**prasad-nikam/prasad-nikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Frontend Engineer crafting modern, fast and delightful web experiences.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🇮🇳 Pune, India • React • TypeScript • Next.js • Node.js
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer passionate about building products that people love using.
+
+I enjoy creating beautiful interfaces, scalable architectures, and solving real-world problems through code. While my focus is frontend engineering, I also enjoy building robust backend systems and APIs.
+
+Currently I'm:
+
+- 🚀 Building a production-grade Learning Management System
+- 🎨 Designing an award-quality portfolio website
+- 🌱 Learning Go for scalable backend systems
+- 📖 Always improving my frontend craftsmanship
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Vite
+- TanStack Query
+
+### Backend
+
+- Node.js
+- Express.js
+- FastAPI
+- Frappe Framework
+
+### Database
+
+- MongoDB
+- PostgreSQL
+- MariaDB
+
+### Tools
+
+- Git
+- GitHub
+- Linux
+- Postman
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Learning Management System
+
+Production-ready LMS with authentication, assessments, role-based access, and modern frontend architecture.
+
+**Tech**
+React • TypeScript • Node.js • MongoDB
+
+---
+
+### 💳 HD Wallet
+
+A multi-chain crypto wallet supporting both Ethereum and Solana.
+
+**Tech**
+React • TypeScript • Solana • Web3
+
+---
+
+### 🏫 School CRM
+
+Complete CRM platform with JWT authentication, role-based access control and REST APIs.
+
+**Tech**
+Node.js • Express • MongoDB
+
+---
+
+## 🎯 What I Care About
+
+- Beautiful UI
+- Performance
+- Clean Architecture
+- Accessibility
+- Developer Experience
+- Type Safety
+
+---
+
+## 📈 Currently Exploring
+
+- Go
+- System Design
+- Web Performance
+- Distributed Systems
+- Advanced React Patterns
+
+---
+
+## 🤝 Connect With Me
+
+📧 nikamprasad52@gmail.com
+
+💼 LinkedIn
+https://linkedin.com/in/prasadnikam52
+
+🌐 Portfolio
+Coming Soon...
+
+---
+
+<p align="center">
+
+"Great software is built by people who care about the details."
+
+</p>
