@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Nikam</h1>
 
 <p align="center">
-Frontend Engineer crafting modern, fast and delightful web experiences.
+Full Stack Engineer crafting modern, fast and delightful web experiences.
 </p>
 
 <p align="center">
